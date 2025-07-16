@@ -14,5 +14,5 @@ def most_frequent_letter(text):
     return most_frequent
 
 # Example usage
-input_text = "Sssssssssimple Python Practice"
+input_text = "Simple Python Practice"
 print("Most frequent letter:", most_frequent_letter(input_text))
