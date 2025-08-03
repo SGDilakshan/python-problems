@@ -26,6 +26,5 @@ def check_password_strength(password):
 
     return "Strong password."
 
-# Example usage
 password = input("Enter a password to check: ")
 print(check_password_strength(password))
