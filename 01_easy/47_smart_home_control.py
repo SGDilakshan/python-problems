@@ -1,4 +1,5 @@
 # Create a Python program using OOP and method overriding where different smart home devices respond differently to a common activate() command.
+
 class Device:
     def activate(self):
         print("Device activated.")
